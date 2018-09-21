@@ -9,4 +9,6 @@ const router = new VueRouter({
         // { path: '/contact', component: DemoContact }
     ]
 })
+
+
 export default router
