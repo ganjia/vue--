@@ -2,5 +2,43 @@
     "baner": [
         "http://ofv795nmp.bkt.clouddn.com/vuelogobanner1.jpg",
         "http://ofv795nmp.bkt.clouddn.com/vuelogobanner2-1.jpg"
+    ],
+    "newslist": [{
+            "id": 1,
+            "time": "2016-10-10 12:12:12",
+            "cishu": 1,
+            "title": "能和心爱的人一起睡觉，是件幸福的事情；可是，打呼噜怎么办？",
+            "logo": "https://xzlogo.com/static/images/index/zh-CN/recommand_owner_01.png?v1"
+        },
+        {
+            "id": 2,
+            "time": "2016-10-10 11:11:11",
+            "cishu": 2,
+            "title": "想要这样一间小木屋，夏天挫冰吃瓜，冬天围炉取暖.",
+            "logo": "https://xzlogo.com/static/images/index/zh-CN/recommand_owner_02.png?v1"
+        },
+        {
+            "id": 3,
+            "time": "2016-10-10 10:2:2",
+            "cishu": 10,
+            "title": "烤炉模式的城，到黄昏，如同打翻的调色盘一般.",
+            "logo": "https://xzlogo.com/static/images/index/zh-CN/recommand_owner_03.png?v1"
+        }
+    ],
+    "comments": [{
+            "userName": "匿名用户1",
+            "time": "2016-10-10 10:2:2",
+            "content": "呵呵"
+        },
+        {
+            "userName": "匿名用户2",
+            "time": "2017-12-11 10:12:21",
+            "content": "京东股价大跌"
+        },
+        {
+            "userName": "匿名用户3",
+            "time": "2016-11-11 10:32:24",
+            "content": "MUI API 文档"
+        }
     ]
 }
